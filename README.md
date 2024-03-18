@@ -1,6 +1,6 @@
 - # Hello, I'm Ugnė Miklovaitė! 👋
 - I'm a first-year college student studying Programming,
-- with a particular passion for front-end development and creating captivating websites.
+- with a particular passion for front-end development.
 - While I primarily focus on front-end work, I'm also delving into the world of back-end development to broaden my skill set.
 - 👀 I'm interested in exploring innovative web design concepts and staying updated with the latest trends in the industry.
 - 🌱 Currently, I'm learning the foundations of programming and honing my skills in HTML, CSS, and JavaScript.
