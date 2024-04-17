@@ -6,8 +6,8 @@
 - Currently, I'm learning the foundations of programming and honing my skills in HTML, CSS, and JavaScript.
 - I'm eager to collaborate on website projects where I can apply my front-end skills and contribute to building engaging online experiences.
 - You can reach me via email at mmiklovaitemm@gmail.com or find me on Facebook - https://www.facebook.com/ugne.miklovaite.
-- Fun fact: I can't resist stopping to say hello to every pup I meet on the street.
-
+  
+<!---- Fun fact: I can't resist stopping to say hello to every pup I meet on the street. --->
 <!---
 mmiklovaitemm/mmiklovaitemm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
