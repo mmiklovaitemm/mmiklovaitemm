@@ -1,5 +1,5 @@
 - # Hello, I'm Ugnė Miklovaitė! 👋
-- I'm a first-year college student studying Programming,
+- I'm a second-year SMK college student studying Programming in Vilnius,
 - with a particular passion for front-end development.
 - I'm interested in exploring innovative web design concepts and staying updated with the latest trends in the industry.
 - I'm eager to collaborate on website projects where I can apply my front-end skills and contribute to building engaging online experiences.
