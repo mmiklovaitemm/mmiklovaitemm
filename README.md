@@ -9,4 +9,4 @@
 - # 🚀 Future Goals:
 - I aspire to expand my knowledge to full-stack development and contribute to impactful projects in the tech industry
 
-- Feel free to explore my repositories and connect with me! 😊
+- ## Feel free to explore my repositories and connect with me! 😊
