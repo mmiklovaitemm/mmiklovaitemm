@@ -1,6 +1,6 @@
 - # 👋 Hello, I'm Ugnė Miklovaitė 
 - I'm a second-year student at SMK College of Applied Sciences, studying Programming in Vilnius
-- Currently, I’m honing my skills in HTML, CSS, and JavaScript, while exploring advanced topics like responsive design, version control (Git & GitHub), and JavaScript
+- Currently, I’m honing my skills in HTML, CSS, and JavaScript, while exploring advanced topics like responsive design, version control (Git & GitHub)
 
 - # 🌟 What I’m working on:
 - I dedicate time to tackling challenges on platforms like Frontend Mentor
