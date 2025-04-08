@@ -10,6 +10,14 @@ After completing it, I plan to start
 
 ---
 
+##  Currently learning
+
+- JavaScript (advanced concepts)
+- DOM manipulation
+- Modern ES6+ syntax
+
+---
+
 ##  Tech stack & tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -31,6 +39,12 @@ To become a front-end developer who builds clean, responsive, and accessible web
 ##  Check my work
 
 You can follow my progress and check out my projects in the **Repositories** section — I'm constantly updating it as I learn and build more!
+
+---
+
+##  Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugnė-miklovaitė-88075a311)
 
 ---
 
