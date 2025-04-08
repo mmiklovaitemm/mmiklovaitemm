@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ugnė
 
-🎓 I'm a second-year student at **SMK College of Applied Sciences**, studying **Programming** in **Vilnius, Lithuania**.
+- I'm a second-year student at **SMK College of Applied Sciences**, studying **Programming** in **Vilnius, Lithuania**.
 
 Currently, I’m deepening my knowledge of JavaScript by taking  
 ➡️ [The Complete JavaScript Course on Udemy](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ST13MT80425G1)  
