@@ -8,15 +8,11 @@ Currently, I’m deepening my knowledge of JavaScript by taking
 After completing it, I plan to start  
 ➡️ [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=ST13MT80425G1)
 
----
-
 ##  Currently learning
 
 - JavaScript (advanced concepts)
 - DOM manipulation
 - Modern ES6+ syntax
-
----
 
 ##  Tech stack & tools
 
@@ -28,24 +24,16 @@ After completing it, I plan to start
 
 **Coming soon:** React.js 👀
 
----
-
 ##  Goal
 
 To become a front-end developer who builds clean, responsive, and accessible websites with great user experiences.
-
----
 
 ##  Check my work
 
 You can follow my progress and check out my projects in the **Repositories** section — I'm constantly updating it as I learn and build more!
 
----
-
 ##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugnė-miklovaitė-88075a311)
-
----
 
  *Feel free to explore my repositories and connect with me!* 
