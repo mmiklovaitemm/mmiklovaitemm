@@ -1,23 +1,23 @@
 # 👋 Hello, I'm Ugnė
 
-I'm a second-year student at **SMK College of Applied Sciences**, studying **Programming** in **Vilnius, Lithuania**.
+I'm a third-year student at **SMK College of Applied Sciences**, studying **Programming** in **Vilnius, Lithuania**.
 
-##  Currently learning
+Currently focusing on frontend development — especially **React**.
 
-- JavaScript (advanced concepts)
-- DOM manipulation
-- Modern ES6+ syntax
+## 🔧 Tech Stack
 
-##  Tech stack & tools
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React  
+- Git & GitHub  
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+## 📚 Learning Goals
 
-##  Contact
+I'm currently improving my React skills and building modern, responsive frontend applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugnė-miklovaitė-88075a311)
+## 📬 Contact
 
- *Feel free to explore my repositories and connect with me!* 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugnė-miklovaitė-888075a311)
+
+*Feel free to explore my repositories and connect with me!*
