@@ -4,18 +4,11 @@ I'm a third-year student at **SMK College of Applied Sciences**, studying **Prog
 
 Currently focusing on frontend development — especially React and Tailwind CSS.
 
-### 🔧 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
 </p>
-
-- HTML5  
-- CSS3  
-- JavaScript
-- React
-- Tailwind CSS  
-- Git & GitHub  
 
 ### 📚 Learning Goals
 
@@ -29,7 +22,7 @@ I'm currently improving my React skills and building modern, responsive frontend
 - **The Ultimate React Course 2025: React, Next.js, Redux & More** — Udemy  
   *(React fundamentals, hooks, state management, modern React patterns, Tailwind CSS)*
 
-## 📬 Contact
+### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugnė-miklovaitė-888075a311)
 
