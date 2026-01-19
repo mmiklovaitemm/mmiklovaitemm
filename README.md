@@ -2,14 +2,15 @@
 
 I'm a third-year student at **SMK College of Applied Sciences**, studying **Programming** in **Vilnius, Lithuania**.
 
-Currently focusing on frontend development — especially **React**.
+Currently focusing on frontend development — especially React and Tailwind CSS.
 
 ## 🔧 Tech Stack
 
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
-- React  
+- React
+- Tailwind CSS  
 - Git & GitHub  
 
 ## 📚 Learning Goals
