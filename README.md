@@ -12,14 +12,22 @@ Currently focusing on frontend development — especially React and Tailwind CSS
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript
 - React
 - Tailwind CSS  
 - Git & GitHub  
 
-## 📚 Learning Goals
+### 📚 Learning Goals
 
 I'm currently improving my React skills and building modern, responsive frontend applications.
+
+### 🎓 Courses & Certifications
+
+- **The Complete JavaScript Course 2025: From Zero to Expert!** — Udemy  
+  *(JavaScript fundamentals, ES6+, OOP, async/await, DOM, real-world projects)*
+
+- **The Ultimate React Course 2025: React, Next.js, Redux & More** — Udemy  
+  *(React fundamentals, hooks, state management, modern React patterns, Tailwind CSS)*
 
 ## 📬 Contact
 
