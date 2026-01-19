@@ -4,7 +4,11 @@ I'm a third-year student at **SMK College of Applied Sciences**, studying **Prog
 
 Currently focusing on frontend development — especially React and Tailwind CSS.
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+</p>
 
 - HTML5  
 - CSS3  
