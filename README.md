@@ -1,29 +1,27 @@
-# 👋 Hello, I'm Ugnė
+# Hi, I'm Ugnė
 
-I'm a third-year student at **SMK College of Applied Sciences**, studying **Programming** in **Vilnius, Lithuania**.
+I'm a developer from Vilnius, Lithuania. I studied programming at SMK College and started out building front-ends with React and TypeScript. Over the last few months most of my time has gone into machine learning.
 
-Currently focusing on frontend development.
+## What I'm working on
 
-## Tech Stack
+- Solving ML challenges on Shipd's Project Eris. Every problem comes with a hidden test set and an AI agent baseline to beat, and most of my models are written in PyTorch.
+- One challenge I designed was accepted on the platform.
+- Putting my own ML experiments here, starting with a simple question: how do you build a validation setup you can actually trust?
+
+## What I care about in ML
+
+- Validation that matches how the model will really be tested. A good score on the wrong split means nothing.
+- A simple baseline first, then a neural model that has to beat it.
+- Code anyone can rerun: fixed seeds, one command, the same result.
+
+## Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,ts,react,nextjs,git,linux" />
 </p>
 
-### 📚 Learning Goals
+Python, PyTorch, NumPy, pandas, scikit-learn, LightGBM, TypeScript, React, Next.js
 
-I'm currently improving my React skills and building modern, responsive frontend applications.
+## Contact
 
-### 🎓 Courses & Certifications
-
-- **The Complete JavaScript Course 2025: From Zero to Expert!** — Udemy  
-  *(JavaScript fundamentals, ES6+, OOP, async/await, DOM, real-world projects)*
-
-- **The Ultimate React Course 2025: React, Next.js, Redux & More** — Udemy  
-  *(React fundamentals, hooks, state management, modern React patterns, Tailwind CSS)*
-
-### 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugnė-miklovaitė-888075a311)
-
-*Feel free to explore my repositories and connect with me!*
+[LinkedIn](https://www.linkedin.com/in/ugne-miklovaite/) · [Website](https://ugnemiklovaite.com)
