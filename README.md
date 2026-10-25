@@ -7,6 +7,12 @@ I'm a developer from Vilnius, Lithuania. I studied programming at SMK College an
 
 ## Projects
 
+<a href="https://github.com/mmiklovaitemm/lt-learning-curve">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-lt-learning-curve-dark.svg">
+    <img alt="How much Lithuanian does a small English model need?" src="assets/card-lt-learning-curve-light.svg" width="100%">
+  </picture>
+</a>
 <a href="https://github.com/mmiklovaitemm/lt-minimal-pairs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-lt-minimal-pairs-dark.svg">
